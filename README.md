@@ -91,29 +91,52 @@ CSE undergraduate at American International University-Bangladesh (AIUB) with a 
 
 <h2 align="center">TECHNOLOGY STACK</h2>
 
+<p align="center"><b>Frontend · Primary Focus</b></p>
+
 <div align="center">
-<table width="86%">
+<table>
   <tr>
-    <td colspan="2" align="center">
-      <b>FRONTEND · PRIMARY FOCUS</b>
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&perline=4" height="72" alt="JavaScript, TypeScript, React and Next.js">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="62%">
-      <b>PROGRAMMING LANGUAGES</b>
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=c,cpp,py,java,cs&perline=5" height="52" alt="C, C++, Python, Java and C sharp">
-    </td>
-    <td align="center" width="38%">
-      <b>FRAMEWORK &amp; PLATFORM</b>
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=dotnet" height="52" alt=".NET">
-    </td>
+    <td align="center" width="150"><img src="https://skillicons.dev/icons?i=js" width="64" height="64" alt="JavaScript"><br><code>JavaScript</code></td>
+    <td align="center" width="150"><img src="https://skillicons.dev/icons?i=ts" width="64" height="64" alt="TypeScript"><br><code>TypeScript</code></td>
+    <td align="center" width="150"><img src="https://skillicons.dev/icons?i=react" width="64" height="64" alt="React"><br><code>React</code></td>
+    <td align="center" width="150"><img src="https://skillicons.dev/icons?i=nextjs" width="64" height="64" alt="Next.js"><br><code>Next.js</code></td>
   </tr>
 </table>
 </div>
+
+<p align="center"><b>Languages, Platform &amp; Tools</b></p>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"><br><code>Python</code></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"><br><code>C</code></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"><br><code>C++</code></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"><br><code>Java</code></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#"><br><code>C#</code></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET"><br><code>.NET</code></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"><br><code>PyTorch</code></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn"><br><code>scikit-learn</code></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"><br><code>Git</code></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"><br><code>Linux</code></td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<p align="center"><b>AI Domains</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-3FB6F0?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/DEEP%20LEARNING-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/NLP-4B0F4B?style=for-the-badge" alt="NLP">
+  <img src="https://img.shields.io/badge/COMPUTER%20VISION-5B3CE0?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" alt="RAG">
+  <img src="https://img.shields.io/badge/EXPLAINABLE%20AI-111111?style=for-the-badge" alt="Explainable AI">
+</p>
 
 <img src="./assets/divider.svg" width="100%" alt="">
 

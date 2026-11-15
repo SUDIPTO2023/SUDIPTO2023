@@ -51,7 +51,7 @@
 <div align="center">
   <img src="./assets/about.svg" width="520" alt="Developer workspace illustration">
   <br><br>
-  <i>Clean interfaces on top. Solid fundamentals underneath.</i>
+  <i>EMBRACE CHALLENGES NEVER STOP GROWING</i>
 </div>
 
 <br>

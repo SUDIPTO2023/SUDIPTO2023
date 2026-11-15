@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Sudipto Kumar Chakrabarty - Frontend-Focused Software Developer" width="100%"/>
+<img src="./assets/hero.svg" alt="SUDIPTO2023 - Frontend-Focused Software Developer" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Frontend+Developer;React.js+Developer;Next.js+Developer;Software+Developer;Creative+Problem+Solver" alt="Typing animation"/>
 </a>
 
 <p>
-  <a href="https://github.com/Sudipto Kumar Chakrabarty"><img src="https://img.shields.io/badge/GitHub-Sudipto Kumar Chakrabarty-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/SUDIPTO2023"><img src="https://img.shields.io/badge/GitHub-SUDIPTO2023-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <!-- Nicher link gulo tomar nijer link diye replace koro. Na thakle line ta delete koro -->
   <a href="https://www.linkedin.com/in/sudipto333/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:skchakrabarty2020@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -39,7 +39,7 @@
 <tr>
 <td width="60%" valign="top">
 
-Hi, I'm **Sudipto Kumar Chakrabarty**, a frontend-focused software developer who enjoys building modern, responsive and user-friendly web applications.
+Hi, I'm **SUDIPTO2023**, a frontend-focused software developer who enjoys building modern, responsive and user-friendly web applications.
 
 - 🎨 **Frontend Development** is my main area of focus
 - ⚛️ Working with the **React & Next.js** ecosystem
@@ -96,14 +96,14 @@ const sudipto = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sudipto Kumar Chakrabarty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=false" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudipto Kumar Chakrabarty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SUDIPTO2023&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=false" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUDIPTO2023&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Sudipto Kumar Chakrabarty&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=SUDIPTO2023&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudipto Kumar Chakrabarty&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SUDIPTO2023&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution Graph" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=Sudipto Kumar Chakrabarty&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=SUDIPTO2023&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -117,11 +117,11 @@ const sudipto = {
 
 <div align="center">
 
-<a href="https://github.com/Sudipto Kumar Chakrabarty/Medicine-Finder-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudipto Kumar Chakrabarty&repo=Medicine-Finder-System&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 1"/>
+<a href="https://github.com/SUDIPTO2023/Medicine-Finder-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUDIPTO2023&repo=Medicine-Finder-System&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 1"/>
 </a>
-<a href="https://github.com/Sudipto Kumar Chakrabarty/project-simulator-smart-integrated-voting">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudipto Kumar Chakrabarty&repo=project-simulator-smart-integrated-voting&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 2"/>
+<a href="https://github.com/SUDIPTO2023/project-simulator-smart-integrated-voting">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUDIPTO2023&repo=project-simulator-smart-integrated-voting&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 2"/>
 </a>
 
 </div>
@@ -136,9 +136,9 @@ const sudipto = {
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sudipto Kumar Chakrabarty/Sudipto Kumar Chakrabarty/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sudipto Kumar Chakrabarty/Sudipto Kumar Chakrabarty/output/github-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Sudipto Kumar Chakrabarty/Sudipto Kumar Chakrabarty/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SUDIPTO2023/SUDIPTO2023/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SUDIPTO2023/SUDIPTO2023/output/github-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SUDIPTO2023/SUDIPTO2023/output/github-snake-dark.svg"/>
 </picture>
 </div>
 
@@ -173,7 +173,7 @@ const sudipto = {
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Sudipto Kumar Chakrabarty"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
+  <a href="https://github.com/SUDIPTO2023"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sudipto333/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
   &nbsp;
@@ -183,5 +183,5 @@ const sudipto = {
 <img src="./assets/footer.svg" alt="Footer wave" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sudipto Kumar Chakrabarty&label=Visitors&color=0ea5e9&style=flat-square" alt="Visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=SUDIPTO2023&label=Visitors&color=0ea5e9&style=flat-square" alt="Visitors"/>
 </p>

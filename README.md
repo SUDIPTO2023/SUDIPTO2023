@@ -56,9 +56,7 @@
 
 <br>
 
-I’m **Sudipto Kumar Chakrabarty**, a frontend-focused software developer who enjoys building modern, responsive and user-friendly web applications.
-
-My primary focus is the **JavaScript and TypeScript ecosystem**, especially **React.js and Next.js**. I also have programming experience with C, C++, Python, Java and C#, alongside foundational knowledge of backend development and .NET. I enjoy learning by building, improving code quality and turning ideas into practical software.
+CSE undergraduate at American International University-Bangladesh (AIUB) with a CGPA of 3.77/4.00. Currently working as a Software Engineer Intern, focusing on MERN Stack Development. Interested in Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision, with a strong passion for research, software engineering, problem-solving, and exploring emerging technologies.
 
 <div align="center">
 <table width="86%">

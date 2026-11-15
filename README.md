@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <a href="YOUR_PORTFOLIO_URL"><img src="./assets/portfolio.svg" height="46" alt="Portfolio"></a>
+  <a href="https://sudipto-kumar-chakrabarty.netlify.app/"><img src="./assets/portfolio.svg" height="46" alt="Portfolio"></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sudipto333/"><img src="https://skillicons.dev/icons?i=linkedin" height="46" alt="LinkedIn"></a>
   &nbsp;
@@ -17,7 +17,7 @@
 </p>
 
 <sub>
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://sudipto-kumar-chakrabarty.netlify.app/">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/sudipto333/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/SUDIPTO2023">GitHub</a> &nbsp;·&nbsp;
   <a href="mailto:skchakrabarty2020@gmail.com">Email</a>
@@ -83,7 +83,7 @@ My primary focus is the **JavaScript and TypeScript ecosystem**, especially **Re
       <br><br>
       <b>Contact</b><br>
       <a href="mailto:skchakrabarty2020@gmail.com">skchakrabarty2020@gmail.com</a><br>
-      <a href="YOUR_PORTFOLIO_URL">Portfolio</a> · <a href="https://www.linkedin.com/in/sudipto333/">LinkedIn</a>
+      <a href="https://sudipto-kumar-chakrabarty.netlify.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/sudipto333/">LinkedIn</a>
     </td>
   </tr>
 </table>
@@ -197,7 +197,7 @@ My primary focus is the **JavaScript and TypeScript ecosystem**, especially **Re
 <table>
   <tr>
     <td align="center" width="200">
-      <a href="YOUR_PORTFOLIO_URL"><img src="./assets/portfolio.svg" height="52" alt="Portfolio"><br><b>Portfolio</b></a><br><sub>Personal website</sub>
+      <a href="https://sudipto-kumar-chakrabarty.netlify.app/"><img src="./assets/portfolio.svg" height="52" alt="Portfolio"><br><b>Portfolio</b></a><br><sub>Personal website</sub>
     </td>
     <td align="center" width="200">
       <a href="https://www.linkedin.com/in/sudipto333/"><img src="https://skillicons.dev/icons?i=linkedin" height="52" alt="LinkedIn"><br><b>LinkedIn</b></a><br><sub>sudipto333</sub>

@@ -169,11 +169,19 @@ CSE undergraduate at American International University-Bangladesh (AIUB) with a 
 
 <div align="center">
 
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="GitHub profile details">
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub statistics">
+<div align="center">
 
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most used languages by commits">
-<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repositories per language">
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="GitHub profile details">
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="middle"><img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="100%" alt="GitHub statistics"></td>
+    <td width="33%" align="center" valign="middle"><img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="100%" alt="Most used languages by commits"></td>
+    <td width="33%" align="center" valign="middle"><img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="100%" alt="Repositories per language"></td>
+  </tr>
+</table>
 
 <br>
 
